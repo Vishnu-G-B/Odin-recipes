@@ -1,2 +1,2 @@
 # Odin Projects
-All the stuff I'm going to learn relating to creating websites
+All my files related to the Odin Project 
